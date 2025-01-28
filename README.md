@@ -1,5 +1,5 @@
 # desafio-logica-js-alura
- Desafios
+ Desafio JavaScript.
  
 1.Mostre um alerta com a mensagem "Boas vindas ao nosso site!".
 
