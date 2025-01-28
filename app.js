@@ -1,4 +1,5 @@
-alert ('Boas vindas ao nosso site!');
+alert('Boas vindas ao nosso site!');
+
 let nome = "Lua";
 let idade = 25;
 let numeroDeVendas = 50;
