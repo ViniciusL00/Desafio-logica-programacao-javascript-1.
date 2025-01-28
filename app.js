@@ -5,15 +5,20 @@ let idade = 25;
 
 let numeroDeVendas = 50;
 let saldoDisponivel = 1000;
-alert('Erro, Preencha todos os campos');
 
-let mensageDeErro = 'Erro, preencha todos os campos';
+let mensagemDeErro = 'Erro, preencha todos os campos';
 alert (mensagemDeErro);
 
-let nome = prompt('Digite o seu nome');
-let idade = prompt('Digite a sua idade');
-
-let = prompt('Digite a sua idade');
-if (idade >= 18) {
+nome= prompt('Digite o seu nome');
+if (nome == "Lua") {
     alert('Pode tirar a habilitação!');
+}else{
+    alert('Não pode tirar a habilitação!');
+}
+
+idade= prompt('Digite a sua idade');
+if (idade >= 18) {
+    ('Pode tirar habilitação!');
+}else {
+    alert('Não pode tirar habilitação!');
 }
