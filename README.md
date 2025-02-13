@@ -1,5 +1,5 @@
-# desafio-logica-js-alura
- Desafio JavaScript.
+# Desafio-logica-programação-javascript-1.
+Primeiro Desafio de logica de programação com JavaScript.
  
 1.Mostre um alerta com a mensagem "Boas vindas ao nosso site!".
 
